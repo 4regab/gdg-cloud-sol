@@ -26,7 +26,7 @@ def hello() -> str:
     Returns:
         A string with the words 'Hello World!'.
     """
-    return "GDG PUP Cloud Solutions Department"
+    return "GDG PUP Cloud Solutions Department \n Flexible Environment Demo!"
 
 
 if __name__ == "__main__":
